@@ -1,7 +1,9 @@
 # 🎉 Comic Inspired Equivalent Resistance Problem 🥳
 
 Author: Shaun Harker
+
 Date: 2023-05-01
+
 Note: I had GPT-4 make all the annoying emojis. You're welcome.
 
 ## Introduction
